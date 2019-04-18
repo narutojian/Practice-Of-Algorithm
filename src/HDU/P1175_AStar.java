@@ -3,6 +3,9 @@ package HDU;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
+/**
+ * P1175 解决方案三：AStar
+ */
 public class P1175_AStar {
 
     int n,m,q,i,nextX,nextY;
@@ -37,6 +40,7 @@ public class P1175_AStar {
         return true;
     }
 
+    //评估距离使用曼哈顿距离
     public int GetDisEsti(Node1175AStar node){
         return Math.abs(node.x - end.x)+Math.abs(node.y - end.y);
     }

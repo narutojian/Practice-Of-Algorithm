@@ -4,6 +4,11 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
+/**
+ * P1175解决方案二：BFS
+ *
+ */
+
 public class P1175_BFS {
 
     int n, m, q,nextX, nextY;
