@@ -2,6 +2,11 @@ package LeetCode;
 
 public class P3 {
 
+    /**
+     * 滑窗法
+     * @param s
+     * @return
+     */
     public int lengthOfLongestSubstring(String s) {
 
         if (s.length() == 0)
