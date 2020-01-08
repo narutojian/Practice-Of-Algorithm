@@ -16,7 +16,7 @@ public class P46 {
     }
 
     /**
-     * 全排列递归写法
+     * 全排列 回溯法
      * @param ans 排列后的结果集
      * @param nums 待排序列
      * @param start 待排序列从start开始

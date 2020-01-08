@@ -66,8 +66,13 @@ public class P47 {
 
     public static void main(String[] args) {
 //        int[] nums = new int[] {2,2,1,1};
+//        int[] nums = new int[] {1,2,3};
         int[] nums = new int[] {-1,2,-1,2,1,-1,2,1};
         P47 h = new P47();
         List<List<Integer>> ans = h.permuteUnique(nums);
+        for (List<Integer> i :
+                ans) {
+            System.out.println(i.toString());
+        }
     }
 }
