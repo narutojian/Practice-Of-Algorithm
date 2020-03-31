@@ -1,24 +1,27 @@
 package LeetCode;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * 升序排列数组
  * 我用的是快排（温故了一下）
  */
 public class P912 {
-
-    public List<Integer> sortArray(int[] nums){
+    /**
+     * 快排
+     * @param nums 给定的数组
+     * @return 升序排列的数组
+     */
+    public int[] sortArray(int[] nums){
         quickSort(nums,0,nums.length-1);
-        List<Integer> ans = new ArrayList<>();
-        for (int i :
-                nums) {
-            ans.add(i);
-        }
-        return ans;
+        return nums;
     }
 
+    /**
+     * 快排 分治思想
+     * 双指针和递归
+     * @param nums 给定的数组
+     * @param low 第一个指针
+     * @param high 第二个指针
+     */
     public void quickSort(int[] nums,int low,int high){
         if (low >= high) return;
         int startPoint = nums[low];
