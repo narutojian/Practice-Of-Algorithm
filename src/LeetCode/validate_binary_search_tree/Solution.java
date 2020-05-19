@@ -2,6 +2,9 @@ package LeetCode.validate_binary_search_tree;
 
 import java.util.Stack;
 
+/**
+ * 98. Validate Binary Search Tree
+ */
 public class Solution {
 
     /**
