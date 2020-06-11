@@ -2,6 +2,9 @@ package LeetCode.game_of_life;
 
 import java.util.Arrays;
 
+/**
+ * 289. Game of Life
+ */
 public class Solution {
 
     /**
