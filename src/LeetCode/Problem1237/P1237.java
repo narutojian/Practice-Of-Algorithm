@@ -1,4 +1,4 @@
-package LeetCode.Problem1237;
+package LeetCode.problem1237;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package LeetCode.Problem1143;
+package LeetCode.problem1143;
 
 /**
  * 递推进行求解

@@ -1,4 +1,4 @@
-package LeetCode.Problem19;
+package LeetCode.problem19;
 
 /**
  * 解题思路：

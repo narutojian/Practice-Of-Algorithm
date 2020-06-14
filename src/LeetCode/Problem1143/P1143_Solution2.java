@@ -1,4 +1,4 @@
-package LeetCode.Problem1143;
+package LeetCode.problem1143;
 
 /**
  * 递归求解,并将求得的数据进行打表记录.

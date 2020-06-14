@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.problem47;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package Algorithm;
+package Algorithm.binaryTreeTraversal;
 
 import DataStructure.BinaryTree;
 

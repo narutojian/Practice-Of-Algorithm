@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.problem22;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,6 +11,11 @@ public class P22_Solution2 {
     private int[] dataOfValue = new int[] {1,-1};
     private int[] numsOfSide = new int[] {0,0};
 
+    /**
+     * dfs回溯
+     * @param n 给定的括号对
+     * @return 返回所有合法的括号组合
+     */
     public List<String> generateParenthesis(int n) {
         List<String> ans = new ArrayList<>();
         this.n = n;

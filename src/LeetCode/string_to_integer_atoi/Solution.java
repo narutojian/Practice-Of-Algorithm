@@ -1,6 +1,9 @@
-package LeetCode;
+package LeetCode.string_to_integer_atoi;
 
-public class P8 {
+/**
+ * 8. String to Integer (atoi)
+ */
+public class Solution {
     public int myAtoi(String str) {
         String mutiRegx = "[0-9+-]";
         String regxOfNumber = "[0-9]";
@@ -61,6 +64,6 @@ public class P8 {
 //        String s = "+-2abc";
 //        String s = "  0000000000012345678";
 //        String s = "-2147483648";
-        System.out.println(new P8().myAtoi(s));
+        System.out.println(new Solution().myAtoi(s));
     }
 }

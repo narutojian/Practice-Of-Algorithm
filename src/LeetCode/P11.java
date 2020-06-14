@@ -11,7 +11,7 @@ public class P11 {
     public int maxArea(int[] height) {
         int res;
         int low = 0, high = height.length - 1;
-        res = (height.length -1) * Math.min(height[low],height[high]);
+        res = (high-low) * Math.min(height[low],height[high]);
 
         while (low != high) {
 
