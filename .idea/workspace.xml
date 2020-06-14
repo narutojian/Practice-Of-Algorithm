@@ -1,30 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcd544f7-ef3e-4bbd-affa-a7afd4122ac9" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="e3252742-6bef-4826-b462-80126220ca57" name="Default Changelist" comment="update 542. 01 Matrix in leetcode">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/implement_trie_prefix_tree/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/implement_trie_prefix_tree/TrieNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/short_encoding_of_words/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/short_encoding_of_words/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/short_encoding_of_words/TrieNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice-Of-Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice-Of-Algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/Algorithm/BinaryTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/Algorithm/KMP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/Algorithm/KMP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/Algorithm/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/Algorithm/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/DataStructure/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/DataStructure/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/Node1175AStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/Node1175AStar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/Node1175BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/Node1175BFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1000.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1000.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1001.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1002.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1002.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1003.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1003.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1004.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1004.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1005.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1005.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1006.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1006.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1042.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1042.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1042_BigInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1042_BigInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1175_AStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1175_AStar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1175_BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1175_BFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1175_DFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/HDU/P1175_DFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P310.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P310.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P912.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/P912.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/Problem1143/P1143_Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/Problem1143/P1143_Solution1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/Problem1143/P1143_Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/Problem1143/P1143_Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/Problem1143/P1143_Solution3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/Problem1143/P1143_Solution3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/Problem1237/CustomFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/Problem1237/CustomFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/Problem1237/P1237.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/Problem1237/P1237.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/Problem2/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/Problem2/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/Problem2/P2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/Problem2/P2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/Problem2/TestAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/Problem2/TestAll.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/Problem572/P572.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/Problem572/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/TestAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/TestAll.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/problem100/P100.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/problem100/P100.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/problem100/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/LeetCode/problem100/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/META-INF/Practice-Of-Algorithm.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/META-INF/Practice-Of-Algorithm.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice-Of-Algorithm/P17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithm/BinaryTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/binaryTreeTraversal/BinaryTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithm/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/P11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/P11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/P8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/string_to_integer_atoi/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Problem1143/P1143_Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Problem1143/P1143_Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Problem1143/P1143_Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Problem1143/P1143_Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Problem1143/P1143_Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Problem1143/P1143_Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Problem1237/CustomFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Problem1237/CustomFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Problem1237/P1237.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Problem1237/P1237.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Problem19/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Problem19/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Problem19/P19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Problem19/P19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Problem2/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Problem2/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Problem2/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Problem2/P2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Problem2/TestAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Problem2/TestAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Problem21/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Problem21/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Problem21/P21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Problem21/P21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/TestAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/TestAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/problem22/P22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/problem22/P22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/problem22/P22_Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/problem22/P22_Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/problem47/P47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/problem47/P47.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/problem47/P47_Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/problem47/P47_Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/problem572/P572.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/problem572/TreeNode.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/HDU/P1000.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -32,69 +123,67 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/HDU/P1000.java" />
-      </list>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="3404b0f6-ca2b-4b86-8bca-1b359c0ae4ae" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Program Files/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="1090" />
+  <component name="ProjectId" id="1d8CKbkCMg880r8RUeAbnHQtS7p" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Practice-Of-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practice-Of-Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practice-Of-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practice-Of-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554364698184" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunManager">
-    <configuration name="P1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HDU.P1000" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.merge_intervals.Solution" />
       <module name="Practice-Of-Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HDU.*" />
+          <option name="PATTERN" value="LeetCode.merge_intervals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.short_encoding_of_words.Solution" />
+      <module name="Practice-Of-Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.short_encoding_of_words.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,7 +193,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P1000" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -113,78 +202,134 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fcd544f7-ef3e-4bbd-affa-a7afd4122ac9" name="Default Changelist" comment="" />
-      <created>1554364442627</created>
+      <changelist id="e3252742-6bef-4826-b462-80126220ca57" name="Default Changelist" comment="" />
+      <created>1591797270113</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554364442627</updated>
-      <workItem from="1554364444490" duration="198000" />
+      <updated>1591797270113</updated>
+      <workItem from="1591797295158" duration="1458000" />
+      <workItem from="1591836573093" duration="9125000" />
+      <workItem from="1591923715205" duration="6150000" />
+      <workItem from="1591953499024" duration="15000" />
+      <workItem from="1592012251019" duration="7451000" />
+      <workItem from="1592042626447" duration="192000" />
+      <workItem from="1592102209653" duration="7693000" />
+      <workItem from="1592133473667" duration="54000" />
     </task>
+    <task id="LOCAL-00001" summary="Update 72. Edit Distance in leetcod">
+      <created>1591840428828</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591840428828</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update 72. Edit Distance in leetcod">
+      <created>1591861312325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591861312325</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update 289. Game of Life in leetcod">
+      <created>1591861364235</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591861364235</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add 56 Merge Intervals in leetcode">
+      <created>1592015878179</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592015878179</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add 542. 01 Matrix in leetcode">
+      <created>1592022199933</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592022199933</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/HDU/P1000.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update 72. Edit Distance in leetcod" />
+    <MESSAGE value="Update 289. Game of Life in leetcod" />
+    <MESSAGE value="add 56. Merge Intervals in leetcod" />
+    <MESSAGE value="add 56 Merge Intervals in leetcode" />
+    <MESSAGE value="add 542. 01 Matrix in leetcode" />
+    <MESSAGE value="update 542. 01 Matrix in leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 542. 01 Matrix in leetcode" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592016614314">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1592016614314" />
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1592103551014">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1592103551014" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1592110267977">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1592110267977" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1592110267976">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1592110267976" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1592110267976">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1592110267976" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1592110267976">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1592110267976" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1591930294598">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591930294598" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1591930294598">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1591930294598" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1591930294598">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1591930294598" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1591930294598">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1591930294598" />
+    <state x="249" y="7" key="SettingsEditor" timestamp="1591798451877">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1591798451877" />
+    <state x="498" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591798445790">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="498" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864@0.0.1536.864" timestamp="1591798445790" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1592103753698">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1592103753698" />
   </component>
 </project>
