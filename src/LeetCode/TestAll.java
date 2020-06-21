@@ -467,6 +467,7 @@ public class TestAll {
         map1.put('t',2);
 
         // equals 相同
+        
         System.out.println(map.equals(map1));
     }
 }
