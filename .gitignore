@@ -26,4 +26,4 @@ hs_err_pid*
 .idea/
 
 # ignore TestAll.java
-src/LeetCode/TestAll.java
+*TestAll.java
