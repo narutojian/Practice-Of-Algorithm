@@ -453,4 +453,19 @@ public class TestAll {
         String subStr = "ainiya";
         System.out.println(str.contains(subStr));
     }
+
+    @Test
+    public void testMapEquals() {
+        Map<Character,Integer> map = new HashMap<>();
+        map.put('a',2);
+        map.put('h',1);
+        map.put('t',2);
+
+        Map<Character,Integer> map1 = new HashMap<>();
+        map1.put('a',2);
+        map1.put('h',1);
+        map1.put('t',2);
+
+        System.out.println(map.equals(map1));
+    }
 }
