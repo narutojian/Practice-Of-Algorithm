@@ -12,4 +12,5 @@
 | leetcode | [695. Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/) | 1. dfs 2. bfs |
 | leetcode | [35. Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/) | 二分查找 while(left < right) 二分区间为(left,mid) (mid+1,right) |
 | leetcode | [34. Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/) |两个二分查找 二分区间分别为(left,mid)、(mid+1,right)和(left,mid-1)、(mid,right)|
+| leetcode | [538. Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | 二叉树中序遍历 | 
 
