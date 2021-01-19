@@ -20,7 +20,7 @@ public class Solution2 {
             dp[i][1] = Math.max(dp[i-1][0]-prices[i],dp[i-1][1]);
         }
 
-        return Math.max(dp[days-1][0],dp[days-1][1]);
+        return dp[days-1][0];
     }
 
     public static void main(String[] args) {
