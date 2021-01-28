@@ -1,5 +1,8 @@
 package LeetCode.Find_Pivot_Index;
 
+/**
+ * 724. Find Pivot Index
+ */
 public class Solution {
 
     /**
