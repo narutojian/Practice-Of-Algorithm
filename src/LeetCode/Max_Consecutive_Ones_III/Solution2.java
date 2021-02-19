@@ -45,21 +45,7 @@ public class Solution2 {
                     right = mid;
                 }
             }
-            // left最终的值一定是个有效的值 不会出现数组越界
-            // 因为上面的[left,right)是一个有效的区间 left的最终值只会在这个有效区间内取
-            if (left == 0 && prefix[left] >= target) {
-                // 此时 target没有左侧区间
-                start = left;
-            }
-            else if (prefix[left] == target) {
-                // prefix[left] >= prefix[end] - K
-                start = left+1;
-            }
-            else if (prefix[left] < target) {
-                // 此时 prefix[left] < prefix[end] - K
-                // prefix[left+1] >= prefix[end] - K
-                start = left+2;
-            }
+            start = left == 0 ? 0 : left+1;
             res = Math.max(res,end-start+1);
         }
         return res;
@@ -68,11 +54,11 @@ public class Solution2 {
     public static void main(String[] args) {
         Solution2 solution2 = new Solution2();
 
-//        int[] A = {1,1,1,0,0,0,1,1,1,1,0};
-//        int K = 2;
+        int[] A = {1,1,1,0,0,0,1,1,1,1,0};
+        int K = 2;
 
-        int[] A = {0,0,0,1};
-        int K = 4;
+//        int[] A = {0,0,0,1};
+//        int K = 4;
 
         System.out.println(solution2.longestOnes(A,K));
     }
