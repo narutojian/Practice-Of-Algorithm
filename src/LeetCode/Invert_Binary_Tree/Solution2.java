@@ -1,5 +1,7 @@
 package LeetCode.Invert_Binary_Tree;
 
+import LeetCode.DS.TreeNode;
+
 public class Solution2 {
 
     /**
