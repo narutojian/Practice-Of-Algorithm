@@ -1,5 +1,7 @@
 package LeetCode.Flatten_Binary_Tree_to_Linked_List;
 
+import LeetCode.DS.TreeNode;
+
 /**
  * 114. Flatten Binary Tree to Linked List
  */
