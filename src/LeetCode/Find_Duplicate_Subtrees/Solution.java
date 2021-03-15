@@ -28,16 +28,12 @@ public class Solution {
         if (root == null)
             return "#";
 
-        StringBuilder left = new StringBuilder(serializeTree(root.left));
-        StringBuilder right = new StringBuilder(serializeTree(root.right));
-
         StringBuilder cur = new StringBuilder();
-        cur.append(left);
-        cur.append(',');
-        cur.append(right);
-        cur.append(',');
         cur.append(root.val);
-
+        cur.append(',');
+        cur.append(serializeTree(root.left));
+        cur.append(',');
+        cur.append(serializeTree(root.right));
         String curString = cur.toString();
 
         if (memo.containsKey(curString)) {
