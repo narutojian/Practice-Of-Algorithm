@@ -1,4 +1,4 @@
-package LeetCode.edit_distance;
+package LeetCode.Edit_Distance;
 
 /**
  * 72. Edit Distance
