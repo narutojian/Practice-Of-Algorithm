@@ -1,5 +1,8 @@
 package LeetCode.implement_trie_prefix_tree;
 
+/**
+ * 208. Implement Trie (Prefix Tree)
+ */
 public class Trie {
     private TrieNode root;
 
