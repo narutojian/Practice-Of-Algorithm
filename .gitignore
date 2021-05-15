@@ -27,3 +27,6 @@ hs_err_pid*
 
 # ignore TestAll.java
 *TestAll.java
+
+# ignore weekContets
+WeekContest*/
