@@ -109,3 +109,53 @@
 | leetcode | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 递归 |
 | leetcode | [706. Design HashMap](https://leetcode-cn.com/problems/design-hashmap/) | 哈希 链地址法 |
 | leetcode | [705. Design HashSet](https://leetcode-cn.com/problems/design-hashset/) | 哈希 链地址法 |
+| leetcode | [652. Find Duplicate Subtrees](https://leetcode-cn.com/problems/find-duplicate-subtrees/) | 递归 序列化 |
+| leetcode | [230. Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | 递归 | 
+| leetcode | [1038. Binary Search Tree to Greater Sum Tree](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | 递归 |
+| leetcode | [98. Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/) | 递归 |
+| leetcode | [700. Search in a Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | 递归 |
+| leetcode | [701. Insert into a Binary Search Tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) | 递归 |
+| leetcode | [450. Delete Node in a BST](https://leetcode-cn.com/problems/delete-node-in-a-bst/) | 递归 |
+| leetcode | [297. Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | 递归 序列化 反序列化 |
+| leetcode | [341. Flatten Nested List Iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/) | 递归 |
+| leetcode | [72. Edit Distance](https://leetcode-cn.com/problems/edit-distance/) | dp;递归+备忘录 |
+| leetcode | [53. Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | dp;贪心 |
+| leetcode | [1603. Design Parking System](https://leetcode-cn.com/problems/design-parking-system/) | 模拟 |
+| leetcode | [1143. Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/) | dp |
+| leetcode | [583. Delete Operation for Two Strings](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | dp |
+| leetcode | [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/) | dp | 
+| leetcode | [516. Longest Palindromic Subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/) | dp |
+| leetcode | [416. Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | dp |
+| leetcode | [518. Coin Change 2](https://leetcode-cn.com/problems/coin-change-2/) | dp |
+| leetcode | [665. Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/) | 模拟 |
+| luogu | [P1466 [USACO2.2]集合 Subset Sums](https://www.luogu.com.cn/problem/P1466) | dp |
+| leetcode | [435. Non-overlapping Intervals](https://leetcode-cn.com/problems/non-overlapping-intervals/) | 贪心; dp |
+| leetcode | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) | 贪心 |
+| leetcode | [55. Jump Game](https://leetcode-cn.com/problems/jump-game) | dp;贪心 |
+| leetcode | [204. Count Primes](https://leetcode-cn.com/problems/count-primes/) | 数学 埃氏筛 |
+| leetcode | [45. Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/) | dp |
+| leetcode | [51. N-Queens](https://leetcode-cn.com/problems/n-queens/) | 回溯 |
+| leetcode | [111. Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | bfs;dfs |
+| leetcode | [139. Word Break](https://leetcode-cn.com/problems/word-break/) | dp |
+| leetcode | [752. Open the Lock](https://leetcode-cn.com/problems/open-the-lock/) | bfs |
+| leetcode | [140. Word Break II](https://leetcode-cn.com/problems/word-break-ii/) | dp |
+| leetcode | [494. Target Sum](https://leetcode-cn.com/problems/target-sum/) | dp |
+| leetcode | [1006. Clumsy Factorial](https://leetcode-cn.com/problems/clumsy-factorial/) | 模拟 |
+| leetcode | [88. Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) | 双指针 |
+| leetcode | [781. Rabbits in Forest](https://leetcode-cn.com/problems/rabbits-in-forest/) | 贪心 数学 |
+| leetcode | [80. Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 双指针 |
+| leetcode | [26. Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 双指针 |
+| leetcode | [10. Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/) | dp 递归 |
+| leetcode | [191. Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/) | 位运算 |
+| leetcode | [231. Power of Two](https://leetcode-cn.com/problems/power-of-two/) | 位运算 |
+| leetcode | [208. Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | 前缀树 字典树|
+| leetcode | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 二叉树遍历 递归 |
+| leetcode | [222. Count Complete Tree Nodes](https://leetcode-cn.com/problems/count-complete-tree-nodes/) | 递归 |
+| leetcode | [130. Surrounded Regions](https://leetcode-cn.com/problems/surrounded-regions/) | 并查集 |
+| leetcode | [990. Satisfiability of Equality Equations](https://leetcode-cn.com/problems/surrounded-regions/) | 并查集 |
+| leetcode | [146. LRU Cache](https://leetcode-cn.com/problems/lru-cache/) | DS:LRU |
+| leetcode | [460. LFU Cache](https://leetcode-cn.com/problems/lfu-cache/) | DS:LFU |
+| leetcode | [895. Maximum Frequency Stack](https://leetcode-cn.com/problems/maximum-frequency-stack/) | 最大频率栈 |
+| leetcode | [152. Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/) | 暴力;dp |
+| leetcode | [97. Interleaving String](https://leetcode-cn.com/problems/interleaving-string/) | dfs ; 递归|
+| leetcode | [198. House Robber](https://leetcode-cn.com/problems/house-robber/) | dp |
