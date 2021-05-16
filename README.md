@@ -159,3 +159,4 @@
 | leetcode | [152. Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/) | 暴力;dp |
 | leetcode | [97. Interleaving String](https://leetcode-cn.com/problems/interleaving-string/) | dfs ; 递归|
 | leetcode | [198. House Robber](https://leetcode-cn.com/problems/house-robber/) | dp |
+| leetcode | [5. Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | dp |
