@@ -160,3 +160,11 @@
 | leetcode | [97. Interleaving String](https://leetcode-cn.com/problems/interleaving-string/) | dfs ; 递归|
 | leetcode | [198. House Robber](https://leetcode-cn.com/problems/house-robber/) | dp |
 | leetcode | [5. Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | dp |
+| leetcode | [337. House Robber III](https://leetcode-cn.com/problems/house-robber-iii/) | dfs+记忆化 |
+| leetcode | [279. Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/) | dp |
+| leetcode | [263. Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | 递归 |
+| leetcode | [264. Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/) | 暴力枚举 |
+| leetcode | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | dp |
+| leetcode | [62. Unique Paths](https://leetcode-cn.com/problems/unique-paths/) | dp |
+| leetcode | [1. Two Sum](https://leetcode-cn.com/problems/two-sum/) | 暴力枚举; hash |
+| leetcode | [3. Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | 双指针 |
