@@ -168,3 +168,5 @@
 | leetcode | [62. Unique Paths](https://leetcode-cn.com/problems/unique-paths/) | dp |
 | leetcode | [1. Two Sum](https://leetcode-cn.com/problems/two-sum/) | 暴力枚举; hash |
 | leetcode | [3. Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | 双指针 |
+| leetcode | [4. Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | 双指针 |
+| leetcode | [6. ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/) | 数学 |
