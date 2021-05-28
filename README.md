@@ -170,3 +170,8 @@
 | leetcode | [3. Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | 双指针 |
 | leetcode | [4. Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | 双指针 |
 | leetcode | [6. ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/) | 数学 |
+| leetcode | [7. Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | 数学 |
+| leetcode | [9. Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | 数学 |
+| leetcode | [11. Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/) | 暴力;双指针 |
+| leetcode | [12. Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/) | 模拟 |
+| leetcode | [13. Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | 模拟 |
