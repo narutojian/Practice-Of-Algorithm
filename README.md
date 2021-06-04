@@ -175,3 +175,9 @@
 | leetcode | [11. Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/) | 暴力;双指针 |
 | leetcode | [12. Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/) | 模拟 |
 | leetcode | [13. Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | 模拟 |
+| leetcode | [14. Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | 枚举 |
+| leetcode | [15. 3Sum](https://leetcode-cn.com/problems/3sum/) | 暴力; 二分查找; 双指针 |
+| leetcode | [16. 3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/) | 排序+双指针 |
+| leetcode | [18. 4Sum](https://leetcode-cn.com/problems/4sum/) | 排序+双指针 |
+| leetcode | [19. Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 快慢指针 |
+| leetcode | [20. Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | 栈 |
