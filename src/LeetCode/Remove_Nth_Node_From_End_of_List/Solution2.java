@@ -5,7 +5,7 @@ import LeetCode.DS.ListNode;
 public class Solution2 {
 
     /**
-     * 快慢指针
+     * 前后双指针
      * @param head
      * @param n
      * @return
