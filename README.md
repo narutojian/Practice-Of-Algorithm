@@ -181,3 +181,5 @@
 | leetcode | [18. 4Sum](https://leetcode-cn.com/problems/4sum/) | 排序+双指针 |
 | leetcode | [19. Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 快慢指针 |
 | leetcode | [20. Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | 栈 |
+| leetcode | [22. Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | 回溯 |
+| leetcode | [23. Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | 优先队列;分治 |

@@ -1,5 +1,7 @@
 package LeetCode.Add_Two_Numbers;
 
+import LeetCode.DS.ListNode;
+
 public class Solution2 {
 
     /**
