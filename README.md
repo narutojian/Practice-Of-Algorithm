@@ -183,3 +183,5 @@
 | leetcode | [20. Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | 栈 |
 | leetcode | [22. Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | 回溯 |
 | leetcode | [23. Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | 优先队列;分治 |
+| leetcode | [24. Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | 链表 迭代 递归|
+| leetcode | [27. Remove Element](https://leetcode-cn.com/problems/remove-element/) | 双指针 |
