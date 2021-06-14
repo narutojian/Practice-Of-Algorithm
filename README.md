@@ -85,7 +85,7 @@
 | leetcode | [81. Search in Rotated Sorted Array II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | 二分查找 |
 | leetcode | [896. Monotonic Array](https://leetcode-cn.com/problems/monotonic-array/) | 遍历 |
 | leetcode | [2. Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/) | 递归 |
-| leetcode | [29. Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/) | 二分查找 |
+| leetcode | [29. Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/) | 数学 递归 |
 | leetcode | [303. Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/) | 前缀和 |
 | leetcode | [153. Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | 二分查找 |
 | leetcode | [304. Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | 二维前缀和 |
@@ -185,3 +185,5 @@
 | leetcode | [23. Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | 优先队列;分治 |
 | leetcode | [24. Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | 链表 迭代 递归|
 | leetcode | [27. Remove Element](https://leetcode-cn.com/problems/remove-element/) | 双指针 |
+| leetcode | [28. Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/) | 暴力匹配 |
+| leetcode | [31. Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | 下一个全排列 |
