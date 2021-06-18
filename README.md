@@ -187,3 +187,6 @@
 | leetcode | [27. Remove Element](https://leetcode-cn.com/problems/remove-element/) | 双指针 |
 | leetcode | [28. Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/) | 暴力匹配 |
 | leetcode | [31. Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | 下一个全排列 |
+| leetcode | [46. Permutations](https://leetcode-cn.com/problems/permutations/) | 回溯 |
+| leetcode | [47. Permutations II](https://leetcode-cn.com/problems/permutations-ii/) | 回溯+剪枝 |
+| leetcode | [63. Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii/) | dp;滚动数组 |
