@@ -192,3 +192,4 @@
 | leetcode | [63. Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii/) | dp;滚动数组 |
 | leetcode | [64. Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/) | dp; 滚动数组 |
 | leetcode | [69. Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | 二分查找; 牛顿迭代法 |
+| leetcode | [70. Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | dp 滚动数组 |
